@@ -1,6 +1,6 @@
 # Setting Up `cosmos-predict1` Post-Training Environment
 
-Start by building the `Dockerfile` here -`Dockerfile2`.
+Start by building the `Dockerfile` here -`Dockerfile.update`.
 
 **Note:** It will take a while to build the APEX library; ensure you don't time out.
 
